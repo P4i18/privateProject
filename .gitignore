@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.class
+*.exe
+*.o
+
+# Ignore environment files
+.env
+*.pem
+
+# Ignore dependency folders
+node_modules/
+venv/
+target/
+
